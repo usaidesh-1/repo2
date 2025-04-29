@@ -1,1 +1,16 @@
-Hi I am saidesh
+Hi I am Saidesh
+
+look what is branching stargazes
+
+revised today task
+
+install inteli j community
+
+install python 
+
+git stash
+git revert 
+git reset 
+git rebase
+git cherry-pick
+
