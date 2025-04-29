@@ -1,4 +1,3 @@
-Hi, 
-I am Saidesh
-New update
-Its version2 update
+I am learining git
+Git is a VC
+

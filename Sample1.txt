@@ -8,8 +8,8 @@ install inteli j community
 
 install python 
 
-git stash
-git revert 
+git stash   done
+git revert  done
 git reset 
 git rebase
 git cherry-pick
